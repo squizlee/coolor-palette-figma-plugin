@@ -1,0 +1,12 @@
+{
+  "name": "ColoorPalette",
+  "id": "1212615340990521355",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
